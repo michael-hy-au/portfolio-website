@@ -16,7 +16,7 @@ export default function AboutPage() {
       {/*  It defaults to 12 columns on smaller screens. */}
       <div className="lg:col-span-7 col-span-12">
         <h1 className="text-4xl mt-6 font-bold tracking-tight text-zinc-800 sm:text-5xl">
-          I’m John Doe, a full-stack developer and tech enthusiast based in Hong
+          I’m John Doe, a full-stack developer and tech enthusiast based in Hong Kong. Test!
         </h1>
 
         <div className="mt-6 space-y-7 text-base text-zinc-600 font-light">
